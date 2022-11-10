@@ -1,0 +1,15 @@
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.csproj.AssemblyReference.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.AssemblyInfoInputs.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.AssemblyInfo.cs
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.csproj.CoreCompileInputs.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/bin/Debug/net6.0/pr_4
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/bin/Debug/net6.0/pr_4.deps.json
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/bin/Debug/net6.0/pr_4.runtimeconfig.json
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/bin/Debug/net6.0/pr_4.dll
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/bin/Debug/net6.0/pr_4.pdb
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.dll
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/refint/pr_4.dll
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.pdb
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/pr_4.genruntimeconfig.cache
+/Users/kirillkalinin/Desktop/С#_HOMEWORKS/8/homework_8/pr_4/obj/Debug/net6.0/ref/pr_4.dll
